@@ -1,0 +1,5 @@
+used model: FCModel1
+learning rate=0.0001
+loaded model: models/50
+used Augmentation
+batch size: 128

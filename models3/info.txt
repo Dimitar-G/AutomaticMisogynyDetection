@@ -1,0 +1,4 @@
+used model: FCModel
+epochs: 1500
+batch size: 128
+learning rate: 0.00001

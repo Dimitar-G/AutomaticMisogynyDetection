@@ -1,0 +1,5 @@
+used model: FCModel
+loaded model: models/1740
+learning rate: 0.000001
+batch size: 64
+epochs: 165
