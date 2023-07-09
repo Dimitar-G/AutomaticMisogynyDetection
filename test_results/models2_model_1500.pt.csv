@@ -1,0 +1,2 @@
+Validation: 	 precision=0.62 	 recall=0.7045454545454546 	 accuracy=0.68 	 f1_score=0.6595744680851063 
+Testing: 	 precision=0.5361344537815126 	 recall=0.638 	 accuracy=0.5425425425425425 	 f1_score=0.582648401826484 
